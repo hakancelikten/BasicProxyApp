@@ -1,4 +1,4 @@
-Uygulama basit bir proxy application'dır. </br>
+Uygulama basit bir proxy console application'dır. </br>
 Bu uygulama ile dış login servisleri kullanarak authenticate yapmaktayız. </br>
 authenticate işleminden sonra alınan token ile diğer apilere istek atılabilecektir. </br>
 in-memory bir şekilde token ve diğer bilgileri tutmaktadır. Herhangi bir data store edilmemektedir. </br>
